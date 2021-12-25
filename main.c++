@@ -1,4 +1,4 @@
-// C++ program to find adjoint and inverse of a matrix
+// C++ program to find adjoint and inverse and determinan of a matrix and finally solve an equation system
 #include<bits/stdc++.h>
 using namespace std;
 
